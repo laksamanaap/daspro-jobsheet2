@@ -1,2 +1,2 @@
 
-# Nama saya Laksamana saya belajar ngoding
+# Nama saya Laksamana saya belajar javascript dan dart
